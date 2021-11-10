@@ -1,0 +1,17 @@
+.body {
+    background-color: #E9967A
+}
+
+.h1 {
+    font-family:sans-serif; 
+    color:lightslategray
+}
+
+.key {
+    padding: 5px;	
+    height: 150px;
+    width: 20%;
+    background-color:white;
+    color: #E9967A;
+    font-family:sans-serif
+  }
